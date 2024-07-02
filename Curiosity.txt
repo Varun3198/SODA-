@@ -1,0 +1,24 @@
+Subset Database
+Def:-
+Data subsetting is a process used in database management where a smaller, 
+representative portion of the database is selected for specific tasks like testing or development, 
+helping optimize system performance and resource utilization
+
+Set Up:-
+-First go to Activity explorer and  press add activity in the top   right corner.
+-In add activity go to bottom and pess subset data base then fill the required information such as name ,description and press finish.
+-A activity page will be opened which contains components and actions to be done 
+-Next  we must connect a database to the activity by going to data Dictionary in the left column and give Databases.
+-Then we must give the database definitions next to database column in the data dictionary column and go to  add components section and press attach definition version .
+-Then we need to add stored queries or create and store a querry to definition .
+- Once the querry is added we can play in the action and the data table will be displayed.
+-Next we need to configure configuration settings like maximum rows to extract ,maximum iterations,scheme mapping, target database name,Substituion variables thhen press OK.
+-Next is The validation process	in the Action section and select the server ,press execute and select the connection and run it 
+-Next we need to create process model buy clicking the action model in the definition section and choose create process model then press execute ,select server the select table and execute .
+- next is to create subset submission form...Under the Actions tab, select Create Submit Form and fill out the details such as Name :subset ,Group :Subset then
+execute which opens up a new tab showing the form is valid and completed gets added to completed list.
+-Then we need to edit the subset form in the component list .Go to the actions choose modify and press the first two next steps and choose the paractions like subsets ,addkeys ,dropkeys and save 
+so that the server process will be updated sucessfully then go back to components and execute the process .
+-In the execution page specify the server and execute .
+
+                                                   -----THE END-----
