@@ -1,3 +1,6 @@
+                                                                                                      VARUN
+DATE:22/01/2024
+
 Subset Database
 Def:-
 Data subsetting is a process used in database management where a smaller, 
